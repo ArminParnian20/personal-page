@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'B Ziba';
+    src: url('BZiba.eot');
+    src: url('BZiba.eot?#iefix') format('embedded-opentype'),
+        url('BZiba.woff2') format('woff2'),
+        url('BZiba.woff') format('woff'),
+        url('BZiba.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
